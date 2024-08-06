@@ -32,13 +32,13 @@ body::before {
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(https://t.alcy.cc/ysz);
+  background-image: url(https://www.dmoe.cc/random.php);
   z-index: 0;
 }
 /* 
 @media screen and (max-width: 960px) {
   body::before {
-    background-image: url(https://t.alcy.cc/ysz);
+    background-image: url(https://www.dmoe.cc/random.php);
   }
 }
  */
